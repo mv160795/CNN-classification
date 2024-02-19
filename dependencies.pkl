@@ -4,3 +4,4 @@ opencv 4.8.0
 tensorflow 2.15.0
 flask 2.2.5
 matplotlib 3.7.1
+pandas 1.5.3
